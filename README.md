@@ -1,16 +1,41 @@
-## Hi there 👋
+# Ivan Salazar
 
-<!--
-**ivanrsalazar/ivanrsalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer | Real-Time Pipelines | Analytics Engineering**
 
-Here are some ideas to get you started:
+I build production-style data pipelines focused on **correctness, observability, and scalability**.  
+My work centers on ingesting messy real-world data and making it reliable for analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I Work With
+- Python, SQL
+- PostgreSQL (partitioning, MERGE, time-series modeling)
+- Dagster (asset-based orchestration, backfills)
+- AWS (EC2, S3)
+- Looker Studio
+
+---
+
+## 🚀 Featured Project
+### Crypto Kline Data Pipeline  
+🔗 https://github.com/ivanrsalazar/kline-pipeline
+
+A real-time OHLCV ingestion system with:
+- WebSocket + REST backfills  
+- Bronze / Silver / Gold modeling  
+- Hourly partitions & idempotent merges  
+- Data completeness monitoring
+
+Built to handle **late data, missing intervals, and reprocessing safely**.
+
+---
+
+## 📌 Interests
+- Data quality & observability  
+- Time-series analytics  
+- Cost-aware data infrastructure  
+- Analytics engineering (dbt in progress)
+
+---
+
+📫 **GitHub:** https://github.com/ivanrsalazar
