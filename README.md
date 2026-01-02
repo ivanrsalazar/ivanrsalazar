@@ -9,9 +9,10 @@ My work centers on ingesting messy real-world data and making it reliable for an
 
 ## 🔧 What I Work With
 - Python, SQL
-- PostgreSQL (partitioning, MERGE, time-series modeling)
-- Dagster (asset-based orchestration, backfills)
-- AWS (EC2, S3)
+- PostgreSQL
+- Big Query
+- Dagster 
+- AWS / GCP
 - Looker Studio
 
 ---
@@ -27,15 +28,3 @@ A real-time OHLCV ingestion system with:
 - Data completeness monitoring
 
 Built to handle **late data, missing intervals, and reprocessing safely**.
-
----
-
-## 📌 Interests
-- Data quality & observability  
-- Time-series analytics  
-- Cost-aware data infrastructure  
-- Analytics engineering (dbt in progress)
-
----
-
-📫 **GitHub:** https://github.com/ivanrsalazar
